@@ -3,4 +3,8 @@
 .LSOverride
 ._*
 .env
+.envrc
+.gh
 .git
+gh-project.sh
+GH-PER-PROJECT-SETUP.md
